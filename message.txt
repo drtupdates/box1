@@ -1,20 +1,10 @@
-4
+5
 ||| 
 Welcome to DRTtv for help and support and information on Updates visit drt-tv.com
-
 Latest Version is v1.1
-
 To check version Number see bottom right of your screen after closing this message - if you are not seeing any version number or it is below v1.1 contact me for help.
-
 Changes in 1.1
-
 Improved performance
 Changed colour to make it easier to navigate submenus
-Added link to Update. Within Admin Settings -Password protected.
-
 Improvements Planned in 1.2
-
 Further Performance tweaks
-Allow installation of select third party addons
-
-
