@@ -1,10 +1,8 @@
-5
+6
 ||| 
-Welcome to DRTtv for help and support and information on Updates visit drt-tv.com
-Latest Version is v1.1
-To check version Number see bottom right of your screen after closing this message - if you are not seeing any version number or it is below v1.1 contact me for help.
-Changes in 1.1
-Improved performance
-Changed colour to make it easier to navigate submenus
-Improvements Planned in 1.2
-Further Performance tweaks
+Latest Version is v1.2
+To check version Number see bottom right of your screen after closing this message
+
+Changes in 1.2
+Added Free Catchup Service - No VPN/Unblocker needed. It is a best effort service.
+Questions? Comments? Requests? - Contact drt-tv.com
