@@ -1,9 +1,11 @@
-7
+8
 ||| 
 !!!Latest Version is v1.3!!!
 Changes in 1.3
 Free Catchup service OVERHAULED, Added Amazon prime and Netflix. Strictly has better streams
-TV Guide should automaically refresh
+TV Guide should automatically refresh, - the help and tips page (which is for development only) has been disabled as requested from user feedback.
 Version number moved to left hand menu
+Full change log go drt-tv.com/change
 Planned in 1.4 --------> Sports Replays
-Questions? Comments? Requests? Feedback - Contact Dan Whatsapp 633 429 537 
+
+Questions? Comments? Requests? Feedback - Contact Dan Whatsapp 633 429 537 -drt-tv.com
