@@ -1,13 +1,12 @@
-9
+10
 ||| 
 Welcome to DRTtv
 
-!!!Latest Version is v1.3!!!
-Changes in 1.3
-Free Catchup service OVERHAULED, Added Amazon prime and Netflix. Strictly has better streams
-TV Guide should automatically refresh, - the help and tips page (which is for development only) has been disabled as requested from user feedback.
-Version number moved to left hand menu
+!!!Latest Version is v1.4!!!
 Full change log and to see what is planned in 1.4 go drt-tv.com/changes
+
+--Some Users have reported problems with loading of TV Guide info. I am currently working on a better guide, in the mean time for those who have this issue please try updating your box now to version 1.4.
+
 
 
 Questions? Comments? Requests? Feedback - Contact Dan Whatsapp 633 429 537 -drt-tv.com
