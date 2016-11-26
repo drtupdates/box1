@@ -2,11 +2,9 @@
 ||| 
 Welcome to DRTtv
 
-!!!Latest Version is v1.4!!!
+!!!Latest Version is v1.5!!! RELEASED ON 26-11-2016
 Full change log and to see what is planned in 1.4 go drt-tv.com/changes
 
---Some Users have reported problems with loading of TV Guide info. I am currently working on a better guide, in the mean time for those who have this issue please try updating your box now to version 1.4.
-
-
-
+--Version 1.5 improves on the TV guide and is a recommended update for those experiencing problems with the loading of TV program information.
+-- 
 Questions? Comments? Requests? Feedback - Contact Dan Whatsapp 633 429 537 -drt-tv.com
