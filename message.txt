@@ -3,7 +3,7 @@
 Welcome to DRTtv
 
 !!!Latest Version is v1.5!!! RELEASED ON 26-11-2016
-Full change log and to see what is planned in 1.4 go drt-tv.com/changes
+Full change log and to see what is planned in 1.6 go drt-tv.com/changes
 
 --Version 1.5 improves on the TV guide and is a recommended update for those experiencing problems with the loading of TV program information.
 -- 
