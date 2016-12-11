@@ -1,11 +1,13 @@
-11
+12
 ||| 
 Welcome to DRTtv
 
-!!!Latest Version is v1.5!!! RELEASED ON 26-11-2016 - Improved 29-11-2016
+!!!Latest Version is v1.6!!! RELEASED ON 11-12-2016
 Full change log and to see what is planned in 1.6 go drt-tv.com/changes
 
---Version 1.5 improves on the TV guide and is a recommended update for those experiencing problems with the loading of TV program information. -It is the last major change while I work on other features. I believe that the platform is now stable, therefore more time between updates may occur.
+--Version 1.6 - Merry Christmas! I hope everyone has a great Christmas and a happy New Year!
+--Version 1.7 - Planned for 02-01-2017
+-- Please contact me with any requests for upcoming version.
 
--- Please contact me with any requests for upcoming version. 
 Questions? Comments? Requests? Feedback - Contact Dan Whatsapp 633 429 537 -drt-tv.com
+Remember that I also provide full Sky TV with over 230 channels for just 20€ a month!
