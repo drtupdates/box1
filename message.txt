@@ -1,13 +1,12 @@
-12
+13
 ||| 
 Welcome to DRTtv
+MERRY CHRISTMAS!
 
-!!!Latest Version is v1.6!!! RELEASED ON 11-12-2016
-Full change log and to see what is planned in 1.6 go drt-tv.com/changes
+Version 2.0 Launched! I have launched this early as it fixes a lot of niggles (I have spent 40+ hours on a new TV Guide Platform)
 
---Version 1.6 - Merry Christmas! I hope everyone has a great Christmas and a happy New Year!
---Version 1.7 - Planned for 02-01-2017
--- Please contact me with any requests for upcoming version.
+It is a very easy to use guide - I will put instructions on my website - http://drt-tv.com/help (soon)
+This guide has a ton of new features - You can set reminders, have programs automatically play and more is coming soon.
 
 Questions? Comments? Requests? Feedback - Contact Dan Whatsapp 633 429 537 -drt-tv.com
 Remember that I also provide full Sky TV with over 230 channels for just 20€ a month!
