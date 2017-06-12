@@ -1,9 +1,13 @@
-21
+23
 ||| 
 Hello! PLEASE READ ME!
 
-This current update has fixed the TV Guide, and missing channels have been restored. The guide updates every time you press TV Guide. Remember that Filmon now charge, but I am able to provide a free Live TV service to my customers. I'd like to thank my exsiting customers for their contiuned support, and welcome my new customers. Please note that I will not charge for remote updates, and will only charge for a call out if I see fit. I hope you enjoy the service and remember, if you have a problem PLEASE let me know, otherwise I can't fix it :).
-This is the last "experimental/new features" update, as Summer season starts. I will of course fix problems as and when they appear, so don't feel like I won't be updating the service, I will. This Notification should pop-up when a new update is available, OR you can open it again by clicking on Update info, on the bottom row.
+Please be advised that how content is delivered is constantly changing. This App's main focus is to deliver:
+1. UK TV for Free
+2. TV Guide
+3. Radio
+Anything else is not a guaranteed feature. 
+
 
 Have a Great Summer! 
 - Dan
