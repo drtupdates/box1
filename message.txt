@@ -1,17 +1,9 @@
 23
 ||| 
 Hello! PLEASE READ ME!
+PLEASE BE ADVISED A NEW UPDATE WILL BE RELEASED AT 5PM CET 15.05.2017
 
-Please be advised that how content is delivered is constantly changing. This App's main focus is to deliver:
-1. UK TV for Free
-2. TV Guide
-3. Radio
-Anything else is not a guaranteed feature. 
+ADDRESSES THE BELOW ISSUES:
 
-
-Have a Great Summer! 
-- Dan
-
-Questions or Comments/Suggestions - mail me dan@drt-tv.com. 
-
+MOVIES NOT BEING FOUND* (Major ongoing issue with provider). FIXES TV GUIDE
 
