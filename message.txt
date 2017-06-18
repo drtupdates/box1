@@ -1,9 +1,8 @@
-23
+24
 ||| 
-Hello! PLEASE READ ME!
-PLEASE BE ADVISED A NEW UPDATE WILL BE RELEASED AT 5PM CET 15.05.2017
-
-ADDRESSES THE BELOW ISSUES:
-
-MOVIES NOT BEING FOUND* (Major ongoing issue with provider).
+NEW UPDATE PLANNED (Non essential) - 18-06-2017 @ 6PM CET
+App will be split into two, A Full Mode (what you are use to) and a TV ONLY mode. The TV only mode forces your box to run the TV only, and not any of the other bundled features of the Full Mode. This may be useful if you don't use any of the Full mode features:
+REMOTE CONTROL INSTRUCTIONS:
+PRESS - 1 FOR RADIO, 2 FOR UPDATE INFO, 3 FOR SPEEDTEST, 4 TO GO TO LOGIN SCREEN, 5 TO QUIT
+I welcome any questions/queries/comments E-mail me @ dan@drt-tv.com or Whatsapp 633429537
 
