@@ -1,8 +1,10 @@
 24
 ||| 
-NEW UPDATE PLANNED (Non essential) - 18-06-2017 @ 6PM CET
-App will be split into two, A Full Mode (what you are use to) and a TV ONLY mode. The TV only mode forces your box to run the TV only, and not any of the other bundled features of the Full Mode. This may be useful if you don't use any of the Full mode features:
-REMOTE CONTROL INSTRUCTIONS:
-PRESS - 1 FOR RADIO, 2 FOR UPDATE INFO, 3 FOR SPEEDTEST, 4 TO GO TO LOGIN SCREEN, 5 TO QUIT
+ESSENTIAL UPDATE NOW AVAILABLE 20-06-2017
+IF YOU CHOOSE TO UPDATE NOTE:
+TV GUIDE IS THE HOME SCREEN YOU NOW HAVE TO USE YOU REMOTE CONTROL FOR OTHER APPS.
+
+REMOTE CONTROL COMMANDS
+PRESS - 1 FOR RADIO, 2 FOR MOVIES/BOXSETS , 3 FOR UPDATE INFO, 4 LAUNCH YOUTUBE, 9 TO QUIT
 I welcome any questions/queries/comments E-mail me @ dan@drt-tv.com or Whatsapp 633429537
 
