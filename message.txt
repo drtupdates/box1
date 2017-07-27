@@ -1,8 +1,10 @@
-32
+36
 ||| 
-NEW UPDATE TODAY 26-07-2017 @ 2PM! XD
-> Fixes - Movie search, Fixes Blank TV Guide.
-> Known Bug on Some M96x Boxes - See Newsletter on how to fix
+NEW UPDATE TODAY 27-07-2017 @ 5PM! 
+> Fixes - Movie search, Fixes Blank TV Guide. - Ensured this now works.
+> Known Bug on Some M96x Boxes - See Newsletter on how to fix.
+>ADDED Andriod Apps - Allows you to use the box as an Andriod box and install Apps if you wish.
 > TO Do - Webpage with news, updates, and instructions, videos and more. Add Radio. 
+>PLANNED - ALLOW APP TO BE UPDATED FROM WITHIN THE APP (TESTING) 
 I welcome any questions/queries/comments E-mail me @ dan@drt-tv.com or Whatsapp 633429537
 
